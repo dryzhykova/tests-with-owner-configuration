@@ -1,4 +1,4 @@
-# Tests are using Owner library
+# Owner Library is used for setting up tests configuration environment
 
 Run API tests:
  - with file configuration: ```gradlew clean test --tests ApiTests.getTokenAndUrlFromFile```
